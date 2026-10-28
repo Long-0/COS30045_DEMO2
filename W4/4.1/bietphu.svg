@@ -1,0 +1,388 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="988" height="982" viewBox="0 0 988 982" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxZjY4NDViMS0wN2UzLTRiMzQtYjE1Ny04MjlmMzVjM2FhNzYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMgVvLr2vsdATIZLEpT+ubsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxY2Y0NDk3Ni0xNTE5LTQ5ZGQtYTkwZS1mMTRiMjY1YzY1NzNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoOspP4ERyufvKsd3SyWp3igAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggS4B9JH7kjkIj/f1c83lUDMHAljGkJbc7jVdLsyQGm76kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaA88T2/miySDJ+wV3LZxwBQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCA3J6QG3gZtugquObvd0daDZbqrUteHHo90H7RzVVmXW2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjFmNjg0NWIxLTA3ZTMtNGIzNC1iMTU3LTgyOWYzNWMzYWE3Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNkN2E4NTAxLTFmOTItNGNjZi1hZWJjLTIyNDY5ZGMyYjIxOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBLgH0kfuSOQiP9/VzzeVQMwcCWMaQltzuNV0uzJAabvqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggZiBCpRXhB6yCId1F4UPVySgimSYsLHbDUX6HObjFPYKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpVJ1Mc2/uU/aXlCVu/sts8sRvt7etQISt1WjF0hOOph0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJN4YkKST8ZFSKYH6UScnsxOcwRxAdAkvZwLogFFGRoA+evn9kIDvKD5jx8ublN/zDC2Rp9rCvNHZWhXNSrJQik=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="troi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3D8FDB"/>
+      <stop offset="0.55" stop-color="#8CCBF0"/>
+      <stop offset="1" stop-color="#FFE9B8"/>
+    </linearGradient>
+    <radialGradient id="anhSang">
+      <stop offset="0" stop-color="#FFF2A8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFF2A8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="co" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#84D060"/>
+      <stop offset="0.5" stop-color="#4FB04F"/>
+      <stop offset="1" stop-color="#2A7A36"/>
+    </linearGradient>
+    <linearGradient id="tuong" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FBEFD5"/>
+      <stop offset="0.5" stop-color="#F3E1B9"/>
+      <stop offset="1" stop-color="#E4CB9A"/>
+    </linearGradient>
+    <linearGradient id="tuongPhu" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F5E6C4"/>
+      <stop offset="1" stop-color="#E6D0A2"/>
+    </linearGradient>
+    <linearGradient id="cotTru" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7EBD0"/>
+      <stop offset="0.5" stop-color="#FFF8E6"/>
+      <stop offset="1" stop-color="#D9C08F"/>
+    </linearGradient>
+    <linearGradient id="kinh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B7E3F7"/>
+      <stop offset="1" stop-color="#4C98C9"/>
+    </linearGradient>
+    <linearGradient id="nuoc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8EE0F5"/>
+      <stop offset="1" stop-color="#2F86B5"/>
+    </linearGradient>
+    <linearGradient id="boiMai" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#3A0F08" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="cua" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7A4522"/>
+      <stop offset="1" stop-color="#4E2A14"/>
+    </linearGradient>
+
+    <pattern id="ngoi" width="20" height="12" patternUnits="userSpaceOnUse">
+      <rect width="20" height="12" fill="#C0492F"/>
+      <path d="M0 12 Q10 1 20 12" fill="none" stroke="#8A2A1B" stroke-width="2"/>
+      <path d="M-10 6 Q0 -5 10 6" fill="none" stroke="#9C3520" stroke-width="2"/>
+      <path d="M10 6 Q20 -5 30 6" fill="none" stroke="#9C3520" stroke-width="2"/>
+    </pattern>
+    <pattern id="da" width="36" height="20" patternUnits="userSpaceOnUse">
+      <rect width="36" height="20" fill="#E3D3AE"/>
+      <path d="M0 0 H36 M0 10 H36 M0 20 H36 M18 0 V10 M0 10 V20 M36 10 V20" fill="none" stroke="#B9A272" stroke-width="1.5"/>
+    </pattern>
+    <pattern id="tru" width="12" height="26" patternUnits="userSpaceOnUse">
+      <rect x="3" y="0" width="6" height="26" rx="3" fill="#F4E7C9" stroke="#C9AE7C" stroke-width="1"/>
+    </pattern>
+    <pattern id="song" width="14" height="44" patternUnits="userSpaceOnUse">
+      <rect x="5" y="8" width="4" height="36" fill="#2F2A26"/>
+      <polygon points="7,0 11,10 3,10" fill="#D9A21B"/>
+    </pattern>
+
+    <g id="may">
+      <ellipse cx="0" cy="10" rx="68" ry="14" fill="#ae2f2feb"/>
+      <ellipse cx="0" cy="0" rx="70" ry="28" fill="#FFFFFF"/>
+      <ellipse cx="45" cy="-15" rx="45" ry="25" fill="#FFFFFF"/>
+      <ellipse cx="-40" cy="-12" rx="38" ry="22" fill="#FFFFFF"/>
+      <ellipse cx="5" cy="-26" rx="28" ry="18" fill="#FFFFFF"/>
+    </g>
+
+    <g id="cay">
+      <path d="M-9 0 Q-6 -70 -12 -125 L12 -125 Q6 -70 9 0Z" fill="#7A4A2B"/>
+      <path d="M-3 -10 Q-1 -60 -5 -110" fill="none" stroke="#5E3720" stroke-width="3"/>
+      <path d="M0 -85 L-36 -125" stroke="#7A4A2B" stroke-width="8" stroke-linecap="round"/>
+      <path d="M0 -95 L36 -132" stroke="#7A4A2B" stroke-width="8" stroke-linecap="round"/>
+      <g fill="currentColor">
+        <circle cx="-48" cy="-148" r="52"/>
+        <circle cx="48" cy="-148" r="52"/>
+        <circle cx="0" cy="-192" r="56"/>
+        <circle cx="0" cy="-138" r="52"/>
+      </g>
+      <g fill="#000000" fill-opacity="0.13">
+        <circle cx="-30" cy="-120" r="30"/>
+        <circle cx="34" cy="-118" r="30"/>
+      </g>
+      <g fill="#FFFFFF" fill-opacity="0.22">
+        <circle cx="-34" cy="-176" r="20"/>
+        <circle cx="30" cy="-208" r="17"/>
+        <circle cx="60" cy="-166" r="13"/>
+        <circle cx="-8" cy="-150" r="11"/>
+      </g>
+    </g>
+
+    <path id="la" d="M0 0 Q36 -32 88 4 Q46 -12 0 0Z"/>
+    <g id="dua">
+      <path d="M-6 0 Q9 -70 0 -150 L11 -150 Q19 -70 9 0Z" fill="#8F6238"/>
+      <path d="M-4 -20 H10 M-2 -50 H13 M0 -80 H14 M1 -110 H12" stroke="#6B4423" stroke-width="2" fill="none"/>
+      <g transform="translate(5,-150)">
+        <use href="#la" transform="rotate(-170)" fill="#2E9E5B"/>
+        <use href="#la" transform="rotate(-135)" fill="#43BF74"/>
+        <use href="#la" transform="rotate(-100)" fill="#2E9E5B"/>
+        <use href="#la" transform="rotate(-60)" fill="#43BF74"/>
+        <use href="#la" transform="rotate(-25)" fill="#2E9E5B"/>
+        <use href="#la" transform="rotate(12)" fill="#43BF74"/>
+        <use href="#la" transform="rotate(168)" fill="#43BF74"/>
+        <use href="#la" transform="rotate(-88)" fill="#5BD08A"/>
+        <circle cx="-3" cy="6" r="6" fill="#7B4B22"/>
+        <circle cx="6" cy="8" r="6" fill="#6A3E1B"/>
+      </g>
+    </g>
+
+    <g id="bui">
+      <circle cx="-18" cy="-8" r="16" fill="currentColor"/>
+      <circle cx="18" cy="-8" r="16" fill="currentColor"/>
+      <circle cx="0" cy="-16" r="20" fill="currentColor"/>
+      <circle cx="-6" cy="-24" r="8" fill="#FFFFFF" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="18" fill="#000000" fill-opacity="0.10"/>
+    </g>
+
+    <g id="hoa">
+      <line x1="0" y1="0" x2="0" y2="11" stroke="#1F6B33" stroke-width="2"/>
+      <g fill="currentColor">
+        <circle cx="0" cy="-5" r="4.2"/>
+        <circle cx="5" cy="-1.5" r="4.2"/>
+        <circle cx="3" cy="4" r="4.2"/>
+        <circle cx="-3" cy="4" r="4.2"/>
+        <circle cx="-5" cy="-1.5" r="4.2"/>
+      </g>
+      <circle cx="0" cy="0" r="2.6" fill="#FFD23F"/>
+    </g>
+
+    <g id="cuaso">
+      <rect x="-40" y="4" width="10" height="62" fill="#2F7A63"/>
+      <rect x="30" y="4" width="10" height="62" fill="#2F7A63"/>
+      <path d="M-27 66 V26 A27 27 0 0 1 27 26 V66 Z" fill="url(#kinh)" stroke="#7A4B26" stroke-width="4"/>
+      <path d="M0 -1 V66 M-27 40 H27" stroke="#F5E6C8" stroke-width="3" fill="none"/>
+      <path d="M-27 26 A27 27 0 0 1 27 26" fill="none" stroke="#D9A441" stroke-width="2"/>
+      <rect x="-32" y="66" width="64" height="7" rx="2" fill="#C9AC7A"/>
+      <rect x="-30" y="73" width="60" height="3" fill="#000000" fill-opacity="0.12"/>
+    </g>
+
+    <g id="cot">
+      <rect x="-9" y="9" width="18" height="122" fill="url(#cotTru)"/>
+      <path d="M-4 9 V131 M4 9 V131" stroke="#CDB283" stroke-width="1.2"/>
+      <rect x="-16" y="0" width="32" height="10" rx="2" fill="#E9D5A6" stroke="#BFA36F" stroke-width="1"/>
+      <rect x="-14" y="131" width="28" height="15" rx="2" fill="#E9D5A6" stroke="#BFA36F" stroke-width="1"/>
+    </g>
+
+    <g id="denLong">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#7A4B26" stroke-width="2"/>
+      <rect x="-6" y="14" width="12" height="4" rx="1" fill="#E7B53B"/>
+      <ellipse cx="0" cy="30" rx="12" ry="14" fill="#E63946" stroke="#F0B429" stroke-width="1.5"/>
+      <path d="M-4 17 Q-8 30 -4 43 M4 17 Q8 30 4 43 M0 16 V44" stroke="#B3212D" stroke-width="1" fill="none"/>
+      <rect x="-6" y="43" width="12" height="4" rx="1" fill="#E7B53B"/>
+      <path d="M-3 47 V58 M0 47 V60 M3 47 V58" stroke="#F0B429" stroke-width="1.5"/>
+    </g>
+
+    <g id="den">
+      <circle cx="0" cy="-64" r="22" fill="#FFE9A0" fill-opacity="0.35"/>
+      <rect x="-2" y="-58" width="4" height="58" fill="#2F2A26"/>
+      <rect x="-8" y="-6" width="16" height="6" rx="1" fill="#2F2A26"/>
+      <rect x="-7" y="-72" width="14" height="14" rx="3" fill="#FFE59A" stroke="#2F2A26" stroke-width="2"/>
+      <polygon points="-9,-72 0,-80 9,-72" fill="#2F2A26"/>
+    </g>
+  </defs>
+
+  <!-- Bầu trời -->
+  <rect x="0" y="0" width="988" height="600" fill="url(#troi)"/>
+  <circle cx="820" cy="140" r="150" fill="url(#anhSang)"/>
+  <circle cx="820" cy="140" r="54" fill="#FFD95A"/>
+  <circle cx="820" cy="140" r="42" fill="#FFE98A"/>
+  <circle cx="820" cy="140" r="28" fill="#FFF6C4"/>
+
+  <!-- Mây -->
+  <use href="#may" transform="translate(170,120)"/>
+  <use href="#may" transform="translate(470,70) scale(0.7)"/>
+  <use href="#may" transform="translate(660,230) scale(0.6)"/>
+  <use href="#may" transform="translate(90,290) scale(0.5)"/>
+
+  <!-- Chim -->
+  <g fill="none" stroke="#2D3748" stroke-width="3" stroke-linecap="round">
+    <path d="M560 150 q12 -14 24 0 q12 -14 24 0"/>
+    <path d="M620 190 q10 -12 20 0 q10 -12 20 0"/>
+    <path d="M520 205 q8 -10 16 0 q8 -10 16 0"/>
+  </g>
+
+  <!-- Núi và đồi xa -->
+  <path d="M0 580 L0 470 Q80 400 150 470 Q230 380 320 470 Q400 420 470 480 Q560 400 640 470 Q740 390 820 470 Q900 420 988 460 L988 580 Z" fill="#9CC0DF"/>
+  <path d="M0 580 L0 510 Q100 450 210 510 Q330 450 450 515 Q580 455 720 515 Q850 460 988 510 L988 580 Z" fill="#7FA9C8"/>
+  <path d="M0 600 Q120 535 260 580 Q400 530 540 580 Q700 535 850 580 Q930 560 988 575 V610 H0 Z" fill="#5FAE6E"/>
+
+  <!-- Bãi cỏ -->
+  <rect x="0" y="575" width="988" height="407" fill="url(#co)"/>
+  <g fill="#B4E58A" fill-opacity="0.28">
+    <ellipse cx="180" cy="640" rx="160" ry="16"/>
+    <ellipse cx="780" cy="650" rx="170" ry="18"/>
+    <ellipse cx="120" cy="790" rx="120" ry="14"/>
+    <ellipse cx="880" cy="800" rx="120" ry="14"/>
+  </g>
+
+  <!-- Cây hoa đào và hoa mai phía sau -->
+  <use href="#cay" x="52" y="705" color="#F58FB3"/>
+  <use href="#cay" x="936" y="705" color="#FFC93C"/>
+
+  <!-- Bóng đổ của nhà -->
+  <ellipse cx="494" cy="706" rx="410" ry="11" fill="#000000" fill-opacity="0.2"/>
+
+  <!-- Cánh trái -->
+  <polygon points="96,526 148,458 254,458 282,526" fill="url(#ngoi)"/>
+  <polygon points="96,526 148,458 254,458 282,526" fill="url(#boiMai)"/>
+  <rect x="144" y="452" width="114" height="8" rx="3" fill="#7E2A1D"/>
+  <rect x="88" y="520" width="200" height="11" rx="3" fill="#6E2118"/>
+  <rect x="114" y="531" width="150" height="169" fill="url(#tuongPhu)"/>
+  <rect x="114" y="531" width="150" height="8" fill="#000000" fill-opacity="0.12"/>
+  <use href="#cuaso" x="189" y="574"/>
+
+  <!-- Cánh phải -->
+  <polygon points="892,526 840,458 734,458 706,526" fill="url(#ngoi)"/>
+  <polygon points="892,526 840,458 734,458 706,526" fill="url(#boiMai)"/>
+  <rect x="730" y="452" width="114" height="8" rx="3" fill="#7E2A1D"/>
+  <rect x="700" y="520" width="200" height="11" rx="3" fill="#6E2118"/>
+  <rect x="724" y="531" width="150" height="169" fill="url(#tuongPhu)"/>
+  <rect x="724" y="531" width="150" height="8" fill="#000000" fill-opacity="0.12"/>
+  <use href="#cuaso" x="799" y="574"/>
+
+  <!-- Mái chính kiểu bốn mái -->
+  <polygon points="222,416 292,296 696,296 766,416" fill="url(#ngoi)"/>
+  <polygon points="222,416 292,296 696,296 766,416" fill="url(#boiMai)"/>
+  <path d="M292 296 L222 416 M696 296 L766 416" stroke="#7E2A1D" stroke-width="5" stroke-linecap="round"/>
+  <rect x="286" y="289" width="416" height="11" rx="4" fill="#7E2A1D"/>
+  <circle cx="290" cy="294" r="8" fill="#9C3520"/>
+  <circle cx="698" cy="294" r="8" fill="#9C3520"/>
+  <rect x="210" y="410" width="568" height="13" rx="3" fill="#6E2118"/>
+  <rect x="210" y="410" width="568" height="3" fill="#D9694B" fill-opacity="0.6"/>
+
+  <!-- Đầu hồi -->
+  <polygon points="380,300 494,204 608,300" fill="url(#ngoi)"/>
+  <polygon points="380,300 494,204 608,300" fill="url(#boiMai)"/>
+  <polygon points="380,300 494,204 608,300" fill="none" stroke="#6E2118" stroke-width="6" stroke-linejoin="round"/>
+  <polygon points="408,296 494,226 580,296" fill="#F6E4BE"/>
+  <circle cx="494" cy="268" r="15" fill="url(#kinh)" stroke="#C99A4B" stroke-width="3"/>
+  <path d="M494 253 V283 M479 268 H509" stroke="#F5E6C8" stroke-width="2"/>
+  <line x1="494" y1="192" x2="494" y2="206" stroke="#D9A21B" stroke-width="3"/>
+  <circle cx="494" cy="188" r="6" fill="#F4C542" stroke="#B8860B" stroke-width="1.5"/>
+
+  <!-- Tầng hai -->
+  <rect x="264" y="423" width="460" height="117" fill="url(#tuong)"/>
+  <rect x="264" y="423" width="460" height="9" fill="#000000" fill-opacity="0.13"/>
+  <use href="#cuaso" x="344" y="438"/>
+  <use href="#cuaso" x="494" y="438"/>
+  <use href="#cuaso" x="644" y="438"/>
+  <g fill="#F0C14B" stroke="#B8860B" stroke-width="1.5">
+    <circle cx="419" cy="470" r="8"/>
+    <circle cx="569" cy="470" r="8"/>
+  </g>
+  <rect x="274" y="508" width="440" height="8" rx="3" fill="#EBDDBE" stroke="#C9AE7C" stroke-width="1"/>
+  <rect x="280" y="516" width="428" height="24" fill="url(#tru)"/>
+  <rect x="254" y="540" width="480" height="14" rx="2" fill="#DCC594" stroke="#B89B66" stroke-width="1"/>
+  <rect x="254" y="554" width="480" height="6" fill="#000000" fill-opacity="0.14"/>
+
+  <!-- Tầng một -->
+  <rect x="264" y="554" width="460" height="146" fill="url(#tuong)"/>
+  <rect x="264" y="554" width="460" height="10" fill="#000000" fill-opacity="0.12"/>
+  <use href="#cuaso" x="342" y="600"/>
+  <use href="#cuaso" x="646" y="600"/>
+
+  <!-- Hoành phi và cửa chính -->
+  <rect x="445" y="564" width="98" height="22" rx="3" fill="#5B2A14" stroke="#E2B24A" stroke-width="2"/>
+  <text x="494" y="580" font-family="Georgia, serif" font-size="12" text-anchor="middle" fill="#FFD86B">BIỆT PHỦ</text>
+  <path d="M450 700 V628 A44 36 0 0 1 538 628 V700 Z" fill="#E2B24A"/>
+  <path d="M456 700 V628 A38 30 0 0 1 532 628 V700 Z" fill="url(#cua)"/>
+  <path d="M494 598 V700" stroke="#E2B24A" stroke-width="3"/>
+  <g fill="none" stroke="#E2B24A" stroke-width="1.5">
+    <rect x="464" y="640" width="24" height="24" rx="2"/>
+    <rect x="500" y="640" width="24" height="24" rx="2"/>
+    <rect x="464" y="672" width="24" height="22" rx="2"/>
+    <rect x="500" y="672" width="24" height="22" rx="2"/>
+  </g>
+  <circle cx="487" cy="660" r="3" fill="#F4C542"/>
+  <circle cx="501" cy="660" r="3" fill="#F4C542"/>
+
+  <!-- Cột hiên -->
+  <use href="#cot" x="284" y="554"/>
+  <use href="#cot" x="404" y="554"/>
+  <use href="#cot" x="584" y="554"/>
+  <use href="#cot" x="704" y="554"/>
+
+  <!-- Đèn lồng -->
+  <use href="#denLong" x="450" y="564" transform="translate(-90,0)"/>
+  <use href="#denLong" x="450" y="564" transform="translate(90,0)"/>
+  <use href="#denLong" x="450" y="564" transform="translate(-166,0)"/>
+  <use href="#denLong" x="450" y="564" transform="translate(166,0)"/>
+
+  <!-- Bậc thềm và chân tường -->
+  <rect x="114" y="684" width="760" height="16" fill="#CDB47F"/>
+  <rect x="114" y="684" width="760" height="3" fill="#FFFFFF" fill-opacity="0.35"/>
+  <rect x="424" y="700" width="140" height="8" fill="#E3D3AE" stroke="#B9A272" stroke-width="1"/>
+  <rect x="414" y="708" width="160" height="8" fill="#DCCBA4" stroke="#B9A272" stroke-width="1"/>
+  <rect x="404" y="716" width="180" height="8" fill="#D3C094" stroke="#B9A272" stroke-width="1"/>
+
+  <!-- Vỉa hè và đường vào -->
+  <rect x="0" y="956" width="988" height="26" fill="#CDBF9F"/>
+  <polygon points="404,724 584,724 584,982 404,982" fill="url(#da)" stroke="#B39C6C" stroke-width="2"/>
+  <ellipse cx="494" cy="830" rx="176" ry="48" fill="url(#da)" stroke="#B39C6C" stroke-width="3"/>
+
+  <!-- Đài phun nước -->
+  <ellipse cx="494" cy="840" rx="76" ry="22" fill="#9E9787"/>
+  <ellipse cx="494" cy="832" rx="76" ry="22" fill="#D2CBBB"/>
+  <ellipse cx="494" cy="832" rx="64" ry="16" fill="url(#nuoc)"/>
+  <rect x="488" y="798" width="12" height="34" fill="#C7C0B0"/>
+  <ellipse cx="494" cy="798" rx="26" ry="8" fill="#D8D1C1"/>
+  <ellipse cx="494" cy="797" rx="20" ry="5" fill="#7DD3F0"/>
+  <g fill="none" stroke="#C7F1FF" stroke-width="3" stroke-linecap="round">
+    <path d="M494 794 V766"/>
+    <path d="M494 794 Q490 766 470 782"/>
+    <path d="M494 794 Q498 766 518 782"/>
+  </g>
+  <g fill="#E4F8FF">
+    <circle cx="470" cy="786" r="2"/>
+    <circle cx="518" cy="786" r="2"/>
+    <circle cx="494" cy="762" r="2.5"/>
+  </g>
+
+  <!-- Hàng rào cây -->
+  <rect x="290" y="736" width="100" height="24" rx="12" fill="#2F8F49"/>
+  <rect x="598" y="736" width="100" height="24" rx="12" fill="#2F8F49"/>
+  <g fill="#7BD37A" fill-opacity="0.5">
+    <circle cx="315" cy="744" r="4"/><circle cx="345" cy="750" r="4"/><circle cx="372" cy="743" r="4"/>
+    <circle cx="623" cy="744" r="4"/><circle cx="653" cy="750" r="4"/><circle cx="680" cy="743" r="4"/>
+  </g>
+
+  <!-- Bụi cây và hoa quanh nhà -->
+  <use href="#bui" x="138" y="704" color="#2F9E5B"/>
+  <use href="#bui" x="240" y="704" color="#3DBB6E"/>
+  <use href="#bui" x="330" y="702" color="#1F7A46"/>
+  <use href="#bui" x="658" y="702" color="#1F7A46"/>
+  <use href="#bui" x="748" y="704" color="#3DBB6E"/>
+  <use href="#bui" x="850" y="704" color="#2F9E5B"/>
+
+  <use href="#hoa" x="165" y="712" color="#E63946"/>
+  <use href="#hoa" x="185" y="718" color="#FFD23F"/>
+  <use href="#hoa" x="205" y="712" color="#FF8FB1"/>
+  <use href="#hoa" x="225" y="720" color="#9B5DE5"/>
+  <use href="#hoa" x="268" y="712" color="#FF9F1C"/>
+  <use href="#hoa" x="290" y="718" color="#FFFFFF"/>
+  <use href="#hoa" x="358" y="712" color="#E63946"/>
+  <use href="#hoa" x="378" y="720" color="#FFD23F"/>
+  <use href="#hoa" x="610" y="720" color="#FF8FB1"/>
+  <use href="#hoa" x="630" y="712" color="#9B5DE5"/>
+  <use href="#hoa" x="698" y="718" color="#FFFFFF"/>
+  <use href="#hoa" x="718" y="712" color="#FF9F1C"/>
+  <use href="#hoa" x="768" y="720" color="#E63946"/>
+  <use href="#hoa" x="788" y="712" color="#FFD23F"/>
+  <use href="#hoa" x="808" y="718" color="#FF8FB1"/>
+  <use href="#hoa" x="828" y="712" color="#9B5DE5"/>
+  <use href="#hoa" x="120" y="730" color="#FF9F1C"/>
+  <use href="#hoa" x="880" y="730" color="#FFFFFF"/>
+
+  <!-- Cây xanh và dừa phía trước -->
+  <use href="#cay" transform="translate(190,860) scale(0.62)" color="#2E9E58"/>
+  <use href="#cay" transform="translate(800,860) scale(0.62)" color="#4DB86A"/>
+  <use href="#dua" x="72" y="850"/>
+  <use href="#dua" x="916" y="850" transform="translate(988,0) scale(-1,1)"/>
+
+  <!-- Đèn đường -->
+  <use href="#den" x="290" y="800"/>
+  <use href="#den" x="698" y="800"/>
+
+  <!-- Hàng rào sắt và cổng -->
+  <rect x="0" y="896" width="380" height="44" fill="url(#song)"/>
+  <rect x="0" y="906" width="380" height="4" fill="#2F2A26"/>
+  <rect x="0" y="928" width="380" height="4" fill="#2F2A26"/>
+  <rect x="608" y="896" width="380" height="44" fill="url(#song)"/>
+  <rect x="608" y="906" width="380" height="4" fill="#2F2A26"/>
+  <rect x="608" y="928" width="380" height="4" fill="#2F2A26"/>
+  <rect x="0" y="940" width="392" height="16" fill="#DCCBA4" stroke="#B39C6C" stroke-width="1"/>
+  <rect x="596" y="940" width="392" height="16" fill="#DCCBA4" stroke="#B39C6C" stroke-width="1"/>
+
+  <rect x="380" y="872" width="24" height="84" fill="#EAD9B1" stroke="#B39C6C" stroke-width="1.5"/>
+  <rect x="375" y="866" width="34" height="9" rx="2" fill="#C8AE7C"/>
+  <ellipse cx="392" cy="852" rx="10" ry="13" fill="#FFD9A0" stroke="#C8963E" stroke-width="2"/>
+  <rect x="584" y="872" width="24" height="84" fill="#EAD9B1" stroke="#B39C6C" stroke-width="1.5"/>
+  <rect x="579" y="866" width="34" height="9" rx="2" fill="#C8AE7C"/>
+  <ellipse cx="596" cy="852" rx="10" ry="13" fill="#FFD9A0" stroke="#C8963E" stroke-width="2"/>
+</svg>
